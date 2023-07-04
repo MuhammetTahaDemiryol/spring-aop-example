@@ -38,6 +38,8 @@ AOP works by applying aspects to the existing codebase. Aspects are reusable mod
 
 7. `@Around`: Allows the annotated method to control the entire execution of the joinpoint.
 
+8. `@Order` : Used to specify the order in which multiple aspects should be applied. When multiple aspects are defined, smaller the number higher the priority.
+
 ## Acknowledgements
 Special thanks to the following book:
 - Title: "Spring Start Here: Learn what you need and learn it well"
