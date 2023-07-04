@@ -1,6 +1,6 @@
 # Spring-AOP-Example
 
- While the project is short and precise this notes are detailed. The notes are for my own reference and for anyone who wants to learn Spring AOP.
+ While the project is short and precise this note are detailed. The notes are for my own reference and for anyone who wants to learn Spring AOP.
 
 ## **Common Aspect Terms Explained**
 
